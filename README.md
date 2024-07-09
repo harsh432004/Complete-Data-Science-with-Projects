@@ -33,8 +33,8 @@ This repository focuses on providing comprehensive data science projects and sol
 
 To use this repository locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/harsh432004/DataScience-Projects.git`
-2. Navigate to the project directory: `cd DataScience-Projects`
+1. Clone the repository: `git clone https://github.com/harsh432004/Complete-Data-Science-with-Projects.git`
+2. Navigate to the project directory: `cd Complete-Data-Science-with-Projects`
 
 ## Usage
 
@@ -45,13 +45,15 @@ To use this repository locally, follow these steps:
 
 ## Projects
 
-This repository includes a variety of data science projects, such as:
+This repository will include a variety of data science projects, such as:
 
 - **Data Analysis**: Exploratory data analysis (EDA), statistical analysis, etc.
 - **Machine Learning**: Supervised learning, unsupervised learning, reinforcement learning, etc.
 - **Deep Learning**: Neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), etc.
 - **Data Visualization**: Creating insightful visualizations using libraries like Matplotlib, Seaborn, Plotly, etc.
 - **Natural Language Processing**: Text preprocessing, sentiment analysis, topic modeling, etc.
+
+- **Please add a bookmark as this repository is being updated daily
 
 ## Contributing
 
